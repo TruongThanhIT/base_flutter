@@ -1,0 +1,1 @@
+Visit https://github.com/Milad-Akarie/smooth_page_indicator/tree/0.3.0-nullSafety to get detail
